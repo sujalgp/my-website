@@ -17,7 +17,7 @@ const testimonials = [
     avatar: "https://thumbs.dreamstime.com/b/asian-indian-businessman-good-looking-mature-business-suit-smiling-isolated-white-background-portrait-handsome-31871432.jpg?w=360"
   },
   {
-    name: "Radhika Shing",
+    name: "Radhika Singh",
     rating: 5,
     comment: "Amazing experience! The app is easy to use and the service was outstanding. Will definitely use again.",
     date: "3 days ago",
